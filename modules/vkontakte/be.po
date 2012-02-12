@@ -1,55 +1,43 @@
-# Ukrainian translation for qutim
-# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
-# This file is distributed under the same license as the qutim package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: qutim\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-01 17:02+0000\n"
-"PO-Revision-Date: 2012-01-22 19:04+0000\n"
-"Last-Translator: Maxim <kontact.cat@gmail.com>\n"
-"Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-12 17:02+0000\n"
+"PO-Revision-Date: 2012-02-12 18:54+0000\n"
+"Last-Translator: Aliaksandr Trush <Unknown>\n"
+"Language-Team: LANGUAGE\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-02 06:40+0000\n"
+"X-Launchpad-Export-Date: 2012-02-12 06:40+0000\n"
 "X-Generator: Launchpad (build 14738)\n"
-"Language: uk\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Language: be_BY\n"
-"X-Source-Language: ru_RU\n"
+"X-Qt-Contexts: true\n"
+"X-Language: be\n"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbum/default/PhotoViewerCore/AlbumDelegate.qml:120
-#, fuzzy
 msgctxt "AlbumDelegate|"
 msgid "Remove"
-msgstr "Выдаліць"
+msgstr "Выдаліть"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:42
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:42
-#, fuzzy
 msgctxt "Author|"
 msgid "Alexey Sidorov"
-msgstr "Аляксей Сідараў"
+msgstr "Сидоров Алексей"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:42
-#, fuzzy
 msgctxt "Author|"
 msgid "Aleksey Sidorov"
-msgstr "Аляксей Сідараў"
+msgstr ""
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:197
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:70
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Mobile phone"
-msgstr "Мабільны тэлефон"
+msgstr "Мабільны"
 
 #: ../../../protocols/vkontakte/src/vcontact.cpp:201
-#, fuzzy
 msgctxt "ContactInfo|"
 msgid "Activity"
 msgstr "Дзейнасць"
@@ -57,169 +45,170 @@ msgstr "Дзейнасць"
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:61
 msgctxt "ContactInfo|"
 msgid "Nickname"
-msgstr "Нікнейм"
+msgstr "Нік"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:62
 msgctxt "ContactInfo|"
 msgid "First name"
-msgstr "Ім’я"
+msgstr "Імя"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:63
 msgctxt "ContactInfo|"
 msgid "Last name"
-msgstr "Прізвище"
+msgstr "Прозвішча"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:64
 msgctxt "ContactInfo|"
 msgid "Gender"
-msgstr "Стать"
+msgstr "Пол"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:65
 msgctxt "ContactInfo|"
 msgid "Birthday"
-msgstr "День народження"
+msgstr "Дзень народзінаў"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:66
 msgctxt "ContactInfo|"
 msgid "City"
-msgstr "Місто"
+msgstr "Горад"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:67
 msgctxt "ContactInfo|"
 msgid "Country"
-msgstr "Країна"
+msgstr "Дзяржава"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:68
 msgctxt "ContactInfo|"
 msgid "Photo"
-msgstr "Фотографія"
+msgstr "Фота"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:69
 msgctxt "ContactInfo|"
 msgid "Home phone"
-msgstr "Домашній телефон"
+msgstr "Дам. Тэлефон"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:71
 msgctxt "ContactInfo|"
 msgid "University"
-msgstr "Університет"
+msgstr "Універсітэт"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:72
 msgctxt "ContactInfo|"
 msgid "Faculty"
-msgstr "Факультет"
+msgstr "Факультэт"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:73
 msgctxt "ContactInfo|"
 msgid "Graduation year"
-msgstr ""
+msgstr "Год выпуску"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:80
 msgctxt "ContactInfo|"
 msgid "Undefined"
-msgstr "Не визначено"
+msgstr "Не вызначана"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:81
 msgctxt "ContactInfo|"
 msgid "Female"
-msgstr "Жінка"
+msgstr "Жаночы"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:82
 msgctxt "ContactInfo|"
 msgid "Male"
-msgstr "Чоловік"
+msgstr "Мужскі"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:191
 msgctxt "ContactInfo|"
 msgid "General"
-msgstr "Загальний"
+msgstr "Галоўныя"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:193
 msgctxt "ContactInfo|"
 msgid "Person"
-msgstr "Особа"
+msgstr "Асабістае"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:208
 msgctxt "ContactInfo|"
 msgid "Home address"
-msgstr "Домашня адреса"
+msgstr "Дамашні адрас"
 
 #: ../../../protocols/vkontakte/src/vinforequest.cpp:216
 msgctxt "ContactInfo|"
 msgid "Education"
-msgstr "Освіта"
+msgstr "Адукацыя"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:38
 msgctxt "Plugin|"
 msgid "Photoalbum"
-msgstr "Фотоальбом"
+msgstr "Фотаальбом УКантакце"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Vkontakte photoalbum support for qutIM"
-msgstr "Підтримка фотоальбома Вконтакте qutIM"
+msgstr "Фотаальбом Укантакце для qutIM"
 
+# Убей себя с разбегу
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:38
 msgctxt "Plugin|"
 msgid "Wall"
-msgstr "Стіна"
+msgstr "Сцяна Укантакце"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:39
 msgctxt "Plugin|"
 msgid "Vkontakte wall support for qutIM"
-msgstr "Підтримка стіни Вконтакте qutIM"
+msgstr "Падтрымка сцяны Укантакце для qutIM"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:39
 msgctxt "Plugin|"
 msgid "Vkontakte"
-msgstr "Вконтакте"
+msgstr "Укантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:40
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on userapi.ru"
-msgstr ""
+msgstr "Простая рэалізацыя Укантакце, заснавана на userapi.ru"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:51
 msgctxt "Plugin|"
 msgid "vkontakte"
-msgstr "вконтакте"
+msgstr "Укантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:52
 msgctxt "Plugin|"
 msgid "Simple implementation of vkontakte, based on desktop.api"
-msgstr ""
+msgstr "Простая рэалізацыя УКантакце, заснавана на desktop.api"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:56
 msgctxt "Plugin|"
 msgid "Vkontakte account creator"
-msgstr "Створювач облікових записів Вконтакте"
+msgstr "Стварэнне ўліковага запісу Укантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:57
 msgctxt "Plugin|"
 msgid "Account creator for Vkontakte"
-msgstr ""
+msgstr "Майстар стварэння ўліковага запісу Ўкантакце"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:60
 msgctxt "Plugin|"
 msgid "Proxy support"
-msgstr "Підтримка проксі"
+msgstr "Падтрымка проксі"
 
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:61
 msgctxt "Plugin|"
 msgid "Proxy support for Vkontakte"
-msgstr "Підтримка проксі для Вконтакте"
+msgstr "Падтрымка проксі для пратаколу УКантакце"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:43
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:43
 #: ../../../protocols/vkontakte/src/vkontakteplugin.cpp:43
 msgctxt "Task|"
 msgid "Author"
-msgstr "Автор"
+msgstr "Аўтар"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:14
 msgctxt "VAccountSettings|"
 msgid "Account settings"
-msgstr "Налаштування облікового запису"
+msgstr "Наладка ўліковага запісу"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountsettings.ui:49
 msgctxt "VAccountSettings|"
@@ -230,17 +219,17 @@ msgstr "Пароль:"
 #, qt-format
 msgctxt "VAccountSettings|"
 msgid "%1 settings"
-msgstr "Налаштування %1"
+msgstr "%1 наладкі"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:14
 msgctxt "VAccountWizardPage|"
 msgid "WizardPage"
-msgstr ""
+msgstr "Майстар"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:26
 msgctxt "VAccountWizardPage|"
 msgid "Email:"
-msgstr "Електронна пошта:"
+msgstr "Email:"
 
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:36
 msgctxt "VAccountWizardPage|"
@@ -250,79 +239,81 @@ msgstr "Пароль:"
 #: ../../../protocols/vkontakte/src/ui/vaccountwizardpage.ui:63
 msgctxt "VAccountWizardPage|"
 msgid "Save password"
-msgstr "Зберегти пароль"
+msgstr "Захаваць пароль"
 
 #: ../../../protocols/vkontakte/src/vconnection.cpp:116
 msgctxt "VConnection|"
 msgid "qutIM - VKontakte authorization"
-msgstr "qutIM - авторизація Вконтакте"
+msgstr "qutIM - аўтарызацыя Укантакце"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:66
 #, qt-format
 msgctxt "VWallSession|"
 msgid "%1 (Wall)"
-msgstr "%1 (Стіна)"
+msgstr "%1 (Сцяна)"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:218
 msgctxt "VWallSessionPrivate|"
 msgid "Unknown"
-msgstr "Невідомо"
+msgstr "Невядома"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:220
 msgctxt "VWallSessionPrivate|"
 msgid "Audio"
-msgstr "Аудіо"
+msgstr "Аўдыё"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:222
 msgctxt "VWallSessionPrivate|"
 msgid "Video"
-msgstr "Відео"
+msgstr "Відыа"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:224
 msgctxt "VWallSessionPrivate|"
 msgid "Application"
-msgstr "Програма"
+msgstr "Праграма"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:226
 msgctxt "VWallSessionPrivate|"
 msgid "Graffiti"
-msgstr "Графіті"
+msgstr "Графіці"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:228
 msgctxt "VWallSessionPrivate|"
 msgid "Photo"
-msgstr "Фотографія"
+msgstr "Фота"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:230
 msgctxt "VWallSessionPrivate|"
 msgid "Posted photo"
-msgstr ""
+msgstr "Дададзена фота"
 
 #: ../../../protocols/vkontakte/plugins/wall/vwallsession.cpp:232
 #, qt-format
 msgctxt "VWallSessionPrivate|"
 msgid "Multimedia message: %1"
-msgstr "Мультимедійне повідомлення:%1"
+msgstr "Мультымедыа паведамленне: %1"
 
 #: ../../../protocols/vkontakte/plugins/photoalbum/vphotoalbumplugin.cpp:53
 msgctxt "Vkontakte|"
 msgid "View photoalbum"
-msgstr "Переглянути фотоальбом"
+msgstr "Праглядзець фотаальбом"
 
+# Что бы видеть куда разбегаться
 #: ../../../protocols/vkontakte/plugins/wall/vwallmanager.cpp:52
 msgctxt "Vkontakte|"
 msgid "View wall"
-msgstr "Переглянути стіну"
+msgstr "Показать сцяну"
 
+# Открыть хомяка - так значительно короче, но хомячки (сорь за тафтологию) не поймут^_^'
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:93
 msgctxt "Vkontakte|"
 msgid "Open homepage"
-msgstr "Відкрити головну сторінку"
+msgstr "Адчыніць дамашнюю старонку"
 
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:115
 msgctxt "Vkontakte|"
 msgid "Account settings"
-msgstr "Налаштування облікового запису"
+msgstr "Наладці уліковага запісу"
 
 #: ../../../protocols/vkontakte/src/vkontakteprotocol.cpp:123
 msgctxt "VkontakteProtocol|"
